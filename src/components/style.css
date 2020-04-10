@@ -1,0 +1,85 @@
+
+h1 , h3 , h2 {
+    color: black;
+}
+.inputDatos_header{
+    background-color: whitesmoke;
+    margin: 3px;
+    padding: 5px;
+    border-radius: 5px;
+    box-shadow: 10px 9px 21px -14px rgba(0,0,0,0.75);
+}
+.inputDatos{
+    background-color: #AED6F1 ;
+    border-radius: 5px;
+    box-shadow: 10px 9px 21px -14px rgba(0,0,0,0.75);
+}
+.boton{
+    background-color: teal;
+    border-radius: 10px;
+    box-shadow: 10px 9px 21px -7px rgba(0,0,0,0.75);
+    padding: 15px;
+    margin: 20px;
+}
+.inputDatos_body {
+    margin: 30px;
+    padding: 15px;
+}
+.nombreMascota {
+    margin: 25px;
+    box-shadow: 10px 9px 21px -8px rgba(0,0,0,0.75);
+}
+.nombreDueño {
+    margin: 25px;
+    box-shadow: 10px 9px 21px -8px rgba(0,0,0,0.75);
+}
+.fecha {
+    margin: 25px;
+    box-shadow: 10px 9px 21px -8px rgba(0,0,0,0.75);
+}
+.hora {
+    margin: 25px;
+    box-shadow: 10px 9px 21px -8px rgba(0,0,0,0.75);
+}
+.sintomas {
+    margin: 25px;
+    box-shadow: 10px 9px 21px -8px rgba(0,0,0,0.75);
+}
+.inputDatos_footer {
+    background-color: whitesmoke;
+}
+label {
+    color: black;
+}
+.inputTurno_header{
+    background-color: #AED6F1;
+   
+    
+}
+.inputTurno_body{
+    background-color: #AED6F1;
+   
+}
+.inputTurno_footer{
+    background-color: red;
+    
+}
+.titulo {
+    background-color: teal;
+}
+p {
+    color: black;
+}
+
+.principal {
+    background-color: whitesmoke;
+    display: flex;
+    flex-direction: row-reverse;   
+}
+
+.perro1 {
+    height: 500px;
+    width: 350px;
+    
+   
+}
