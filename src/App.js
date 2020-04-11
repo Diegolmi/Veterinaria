@@ -2,11 +2,12 @@ import React from 'react';
 import Nav from './components/nav';
 import Body from './components/body';
 import Section from './components/section'
+import Tienda from './components/tienda'
 // import logo from './descarga.png';
 import './App.css';
 import 'bootstrap/dist/css/bootstrap.min.css';
 
-import Formulario from './components/veterinaria';
+// import Formulario from './components/veterinaria';
 
 function App() {
   return (
@@ -28,7 +29,9 @@ function App() {
       </section>
       <section>
 
-      <Formulario />
+        < Tienda />
+
+      {/* <Formulario /> */}
 
       </section>
 
