@@ -9,7 +9,7 @@ class Body extends React.Component {
         return (
             <>
                 <div className="principal">
-                    <img src={Perro} className="perro1" alt="150px" />
+                    <img src={Perro} className="perro1 img-fluid" alt=""  />
 
                     <div className="col-md-7 align-self-center text-center text-md-left">
                         <div className="intro-text">
