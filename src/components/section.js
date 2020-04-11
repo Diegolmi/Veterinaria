@@ -12,9 +12,7 @@ class Section extends React.Component {
             <>
                 <div className="row justify-content-center" data-aos="fade-up">
                     <div className="col-lg-6 text-center heading-section mb-5">
-                        <div className="paws">
-                            <span className="icon-paw"></span>
-                        </div>
+                       
                         <h2 className="text-black mb-2">Tenemos todo para el bienestar fisico y mental de tu mascota</h2>
 
                     </div>
