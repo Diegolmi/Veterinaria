@@ -7,7 +7,7 @@ import Tienda from './components/tienda'
 import './App.css';
 import 'bootstrap/dist/css/bootstrap.min.css';
 
-// import Formulario from './components/veterinaria';
+import Formulario from './components/veterinaria';
 
 function App() {
   return (
@@ -31,7 +31,7 @@ function App() {
 
         < Tienda />
 
-      {/* <Formulario /> */}
+      <Formulario />
 
       </section>
 

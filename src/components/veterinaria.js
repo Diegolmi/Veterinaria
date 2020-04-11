@@ -45,6 +45,15 @@ class Formulario extends Component {
         return (
             <>
 
+                <div className="row justify-content-center" data-aos="fade-up">
+                    <div className="col-lg-6 text-center heading-section mb-5">
+
+                        <h2 className="text-black mb-2">Consultorio</h2>
+
+                    </div>
+
+                </div>
+
                 <h1> Administrador pacientes veterinaria</h1>
 
                 <div className="inputDatos_header">
@@ -80,7 +89,7 @@ class Formulario extends Component {
                                 className="fecha"
                                 name="fechas"
                                 onChange={this.actualizarState} />
-                                <br />
+                            <br />
 
                             <label>Hora:</label>
                             <input
