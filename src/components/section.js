@@ -25,7 +25,7 @@ class Section extends React.Component {
                             <img src={Perro1} alt="" class="img-fluid" />
                         </a>
                     </div>
-                    <div className="col-lg-5  text-lg-center align-self-center order-lg-1" data-aos="fade-left">
+                    <div className="col-lg-5  text-lg-center align-self-center order-lg-1" data-aos="fade-center">
                         <h2 className="text-black">Veterinaria</h2>
                         <p className="mb-4">Estan los mejores profesionales para el cuidado de tu mascota.</p>
                         <p><a href="turnos.html" class="btn btn-primary">Reservar Turno</a></p>
@@ -35,11 +35,11 @@ class Section extends React.Component {
                     <div className="col-12">
                         <div className="row">
                             <div className="mb-4 mb-lg-0 col-lg-6" data-aos="fade-left">
-                                <a href="tienda.html" className="hover-1">
+                                <a href="tienda.html" className="">
                                     <img src={Juguetes} alt="" className="img-fluid" />
                                  </a>
                             </div>
-                                <div className="col-lg-5 ml-auto align-self-center" data-aos="fade-right">
+                                <div className="col-lg-5 ml-auto align-self-center" data-aos="fade-center">
                                     <h2 className="text-black">Tienda Online</h2>
                                     <p className="mb-4">Porque la salud mental de tu mascota tambien importa</p>
                                     <p><a href="tienda.html" className="btn btn-primary">ir a la tienda</a></p>
