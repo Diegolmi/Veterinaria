@@ -90,12 +90,13 @@ label {
     font-family: "Arial Black", Gadget, sans-serif;
     color: rgb(8, 8, 8);
 
-text-shadow: 1px 3px 0 #969696, 1px 13px 5px #aba8a8;    line-height: 1.5; }
+text-shadow: 1px 3px 0 #969696, 1px 13px 5px #aba8a8;    line-height: 1; }
 .text-black{
     font-size: 40px;
     margin: 20px;
     padding: 20px;
 }
+
 @media (max-width: 991.98px) {
     .site-blocks-cover .display-1 {
       font-size: 3rem; } }
