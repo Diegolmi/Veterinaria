@@ -80,6 +80,7 @@ class Formulario extends Component {
                                 className="fecha"
                                 name="fechas"
                                 onChange={this.actualizarState} />
+                                <br />
 
                             <label>Hora:</label>
                             <input
