@@ -6,7 +6,7 @@ import Section from './components/section'
 import './App.css';
 import 'bootstrap/dist/css/bootstrap.min.css';
 
-// import Formulario from './components/veterinaria';
+import Formulario from './components/veterinaria';
 
 function App() {
   return (
@@ -15,7 +15,7 @@ function App() {
         {/* <img src={logo} className="App-logo" alt="logo" /> */}
        <Nav />
         
-          {/* <Formulario /> */}
+         
        
       </header>
       <section>
@@ -24,6 +24,11 @@ function App() {
       </section>
       <section>
           <Section />
+
+      </section>
+      <section>
+
+      <Formulario />
 
       </section>
 
