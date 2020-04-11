@@ -13,7 +13,7 @@ class Body extends React.Component {
 
                     <div className="col-md-7 align-self-center text-center text-md-left">
                         <div className="intro-text">
-                            <h1>DCM PetShop<span class="d-md-block">El shopping de tus mascotas</span></h1>
+                            <p>DCM PetShop <br /> El shopping de tus mascotas</p>
                         </div>
 
                     </div>
